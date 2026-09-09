@@ -1,8 +1,8 @@
-# Orbit - Anxiety Reduction Robot 
+# Orbbit - Anxiety Reduction Robot 
 This is currently in progress!
 
-Summer Project recreating anxiety robot for low cost, open source use.
-Read about my project in depth here: (Paper link? 
+Summer Research Project recreating anxiety robot for low cost, open source use.
+Read about my project in depth here: [Orbbit Paper]() 
 
 ## The inspiration: Ommie by Yale's Social Robotics Lab
 [Ommie by Yale Researchers](https://scazlab.yale.edu/ommie-robot)
