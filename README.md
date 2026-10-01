@@ -27,7 +27,7 @@ For tools, you will need
 - wire cutters
 
 <p align="center">
-  <img src="Assets/BreathingDiagram.png" width="350">
+  <img src="Assets/ElectronicsCost.png" width="350">
 </p>
 ## Assembly Instructions
 
