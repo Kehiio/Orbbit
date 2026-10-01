@@ -20,6 +20,14 @@ It uses 4-4-4-4 box breathing, as demonstrated in this diagram below.
 </p>
 
 ## Bill of Materials
+For tools, you will need
+- 3D printer access (Bamboo A1 Mini or larger)
+- PLA fillament
+- soldering station
+- wire cutters
 
+<p align="center">
+  <img src="Assets/BreathingDiagram.png" width="350">
+</p>
 ## Assembly Instructions
 
